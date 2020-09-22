@@ -14,6 +14,7 @@ namespace GithubTut
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("This is a test code for Github upload.");
             Console.WriteLine("Kovács Bence");
+            //comment
             for (int i = 0; i < 100; i++)
             {
                 Console.ForegroundColor = ConsoleColor.White;
